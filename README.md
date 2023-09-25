@@ -42,16 +42,16 @@ Using your preferred method get the latest version of this project and unzip it.
 
 | App Name & Link | Residential/Home/Mobile IP or equivalent Proxy's IP | VPS/Datacenter/Hosting/Cloud IP or equivalent Proxy's IP | Max devices per Account | Max Devices per IP | 
 |  :--- |  :---: |  :---: | :---: | :---: |
-| Go to [Earnapp](https://earnapp.com/i/3zulx7k)  | :white_check_mark:	  | :x: | 15|1|
-| Go to [HoneyGain](https://r.honeygain.me/MINDL15721) | :white_check_mark:	  | :x: |10|1|
-| Go to [IPROYAL](https://pawns.app?r=MiNe)  | :white_check_mark:	  | :x: |Unlimited|1|
-| Go to [PEER2PROFIT](https://p2pr.me/165849012262da8d0aa13c8)  | :white_check_mark:	  | :white_check_mark:	 | Unlimited|Unlimited|
-| Go to [PACKETSTREAM](https://packetstream.io/?psr=3zSD)  | :white_check_mark:	  | :x: |Unlimited|1|
-| Go to [TRAFFMONETIZER](https://traffmonetizer.com/?aff=366499) | :white_check_mark:	  | :white_check_mark: |Unlimited|Unlimited|
-| Go to [REPOCKET](https://link.repocket.co/hr8i)  | :white_check_mark:	  | :white_check_mark: |Unlimited|2|
-| Go to [PROXYRACK](https://peer.proxyrack.com/ref/myoas6qttvhuvkzh8ffx90ns1ouhwgilfgamo5ex)  | :white_check_mark:	  | :white_check_mark: |500|1|
-| Go to [PROXYLITE](https://proxylite.ru/?r=PJTKXWN3) | :white_check_mark:	  | :white_check_mark: |Unlimited|1|
-| Go to [BITPING](https://app.bitping.com?r=qm7mIuX3) | :white_check_mark:	  | :white_check_mark: |Unlimited|1|
+| Go to [Earnapp](https://earnapp.com/)  | :white_check_mark:	  | :x: | 15|1|
+| Go to [HoneyGain](https://r.honeygain.me/HENRY68981) | :white_check_mark:	  | :x: |10|1|
+| Go to [IPROYAL](https://pawns.app/?r=2325297)  | :white_check_mark:	  | :x: |Unlimited|1|
+| Go to [PEER2PROFIT](https://p2pr.me)  | :white_check_mark:	  | :white_check_mark:	 | Unlimited|Unlimited|
+| Go to [PACKETSTREAM](https://packetstream.io/)  | :white_check_mark:	  | :x: |Unlimited|1|
+| Go to [TRAFFMONETIZER](https://traffmonetizer.com/?aff=1484736) | :white_check_mark:	  | :white_check_mark: |Unlimited|Unlimited|
+| Go to [REPOCKET](https://link.repocket.co/CsWh)  | :white_check_mark:	  | :white_check_mark: |Unlimited|2|
+| Go to [PROXYRACK](https://peer.proxyrack.com/ref/ofrht6tl4v5atks9lj4bn9nzxfwqic0rb2ydlzbt)  | :white_check_mark:	  | :white_check_mark: |500|1|
+| Go to [PROXYLITE](https://proxylite.ru/?r=YRIJ7WGV) | :white_check_mark:	  | :white_check_mark: |Unlimited|1|
+| Go to [BITPING](https://app.bitping.com?) | :white_check_mark:	  | :white_check_mark: |Unlimited|1|
 | Go to [MYSTNODE](https://mystnodes.com/onboarding) | :white_check_mark:	  | :white_check_mark: |Unlimited|Unlimited|
 
 ### 3):technologist: Complete the automatic guided setup using runme.sh or runme.ps1
